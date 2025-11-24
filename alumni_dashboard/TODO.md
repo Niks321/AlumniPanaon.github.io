@@ -1,0 +1,2 @@
+- [x] Remove "Learn More" link from UpcomingEvent display method
+- [x] Verify changes on events page
